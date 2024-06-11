@@ -6,7 +6,7 @@ https://github.com/ben-trainer
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-In this lab, I install the ticketing system osTicket from the ground up using neccessary installation files. The lab is done in Windows 10 Pro 22H2 VM made on Microsoft Azure. I will outline the steps using pictures in this github repository. <br />
+In this lab, I install the ticketing system osTicket from the ground up using necessary installation files. The lab is done in Windows 10 Pro 22H2 VM made on Microsoft Azure. I will outline the steps using pictures in this github repository. <br />
 
 
 
